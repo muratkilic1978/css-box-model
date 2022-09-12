@@ -19,4 +19,4 @@ In this exercise you will learn to use the CSS Box Model: padding, border, margi
 
 ## Download/clone this [repo](https://github.com/muratkilic1978/css-box-model) to your machine
 
-Next open the **style.css** from the repository that you downloaded above. Now open a new browser [Tab] on Chrome and watch the following video [Learn CSS Box Model in 8 Minutes](https:www.youtube.com/watch?v=rIO5326FgPE) an apply all what you see.
+Next open the **style.css** from the repository that you downloaded above. Now open a new browser [Tab] on Chrome and watch the following video [Learn CSS Box Model in 8 Minutes](https:www.youtube.com/watch?v=rIO5326FgPE) an apply all what you see in this video to your **style.css** file.
