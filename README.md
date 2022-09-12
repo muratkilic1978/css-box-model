@@ -12,10 +12,9 @@ The **CSS box model** is essentially a box that wraps around every HTML element.
 - Padding - Clears an area around the content. The padding is transparent
 - Border - A border that goes around the padding and content
 - Margin - Clears an area outside the border. The margin is transparent
-- Box-sizing - allows us to include the padding and border in an element's total width and height. By default, the width and height of an element is calculated like this:
-
- - width + padding + border = actual width of an element
-- height + padding + border = actual height of an element
+- Box-sizing - allows us to include the padding and border in an element's total width and height. By default, the width and height of an element is calculated like this:<br>
+width + padding + border = actual width of an element<br>
+height + padding + border = actual height of an element
 
 # Exercise
 
